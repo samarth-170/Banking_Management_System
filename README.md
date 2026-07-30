@@ -35,6 +35,11 @@ Banking-Management-System/
 ---
 
 ## Screenshot
+<img width="741" height="326" alt="Screenshot 2026-07-30 130413" src="https://github.com/user-attachments/assets/ddfe2d90-2d0e-4c01-9df4-19574934954f" />
+
+<img width="480" height="277" alt="Screenshot 2026-07-30 130435" src="https://github.com/user-attachments/assets/0657f4ce-74fd-486e-93c8-dff5bc2512f9" />
+
+<img width="510" height="306" alt="Screenshot 2026-07-30 130508" src="https://github.com/user-attachments/assets/b59c3e92-54e0-4da8-b646-efe1d17d8eda" />
 
 ---
 
