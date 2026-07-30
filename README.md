@@ -25,10 +25,10 @@ This project was created to practice Java programming concepts, including Object
 ```
 Banking-Management-System/
 ├── src/
-│   └── Project_02_Banking/
-│       ├── Bank.java (or Bank class)
-│       └── Main.java
-├── README.md
+   └── Project_02_Banking/
+       ├── Bank.java (or Bank class)
+       └── Main.java
+       └── Readme.md
 ```
 
 > *If both classes are in the same file, you can simply include `Main.java` in the structure.*
