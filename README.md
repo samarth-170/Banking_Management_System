@@ -100,7 +100,7 @@ This project was developed for educational purposes to practice Java programming
 
 ## Author
 **Samarth Bhardwaj**
-GitHub: https://github.com/samarth-170
+GitHub: https://github.com/samarthbhrdwaj
 ---
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
